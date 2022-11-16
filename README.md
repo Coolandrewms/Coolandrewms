@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Coolandrewms
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code in java
-- 💞️ I’m looking to collaborate on building a robot for FTC
-- 📫 How to reach me 
+-  Hi, I’m @Coolandrewms
+-  I’m interested in coding
+-  I’m currently learning how to code in java
+-  I’m looking to collaborate on building a robot for FTC
 
 <!---
 Coolandrewms/Coolandrewms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
